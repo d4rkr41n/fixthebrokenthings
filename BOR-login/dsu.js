@@ -5,8 +5,8 @@
 // @description  Logging in shouldn't be harder for the users. This should help with that.
 // @author       d4rkr41n
 // @match        https://adfs.sdbor.edu/adfs/ls*
-// @updateURL    https://raw.githubusercontent.com/d4rkr41n/userscripts/BOR-login/dsu.js
-// @downloadURL  https://raw.githubusercontent.com/d4rkr41n/userscripts/BOR-login/dsu.js
+// @updateURL    https://raw.githubusercontent.com/d4rkr41n/userscripts/master/BOR-login/dsu.js
+// @downloadURL  https://raw.githubusercontent.com/d4rkr41n/userscripts/master/BOR-login/dsu.js
 // ==/UserScript==
 ​
 window.onload=(function() {
