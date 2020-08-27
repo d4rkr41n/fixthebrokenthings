@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         BEGONE Watch Mojo
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Hides WatchMojo and their lies
+// @namespace    http://github.com/d4rkr41n
+// @version      0.2
+// @description  Hides WatchMojo on youtube from impressionable eyes
 // @author       d4rkr41n
 // @match        https://www.youtube.com/watch*
-// @grant        none
+// @updateURL    https://raw.githubusercontent.com/d4rkr41n/userscripts/master/blockMojo.user.js
+// @downloadURL  https://raw.githubusercontent.com/d4rkr41n/userscripts/master/blockMojo.user.js
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
+// @grant        none
 // ==/UserScript==
 
 (function() {
