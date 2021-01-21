@@ -8,7 +8,6 @@
 // @updateURL    https://raw.githubusercontent.com/d4rkr41n/userscripts/master/BOR-login/borlogin-usd.user.js
 // @downloadURL  https://raw.githubusercontent.com/d4rkr41n/userscripts/master/BOR-login/borlogin-usd.user.js
 // ==/UserScript==
-
 window.onload=(function() {
     'use strict';
     document.getElementById("emailInput").value = "@usd.edu";
