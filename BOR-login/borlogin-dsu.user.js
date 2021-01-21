@@ -8,7 +8,7 @@
 // @updateURL    https://raw.githubusercontent.com/d4rkr41n/userscripts/master/BOR-login/borlogin-dsu.user.js
 // @downloadURL  https://raw.githubusercontent.com/d4rkr41n/userscripts/master/BOR-login/borlogin-dsu.user.js
 // ==/UserScript==
-​
+
 window.onload=(function() {
     'use strict';
     document.getElementById("emailInput").value = "@dsu.edu";
